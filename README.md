@@ -9,27 +9,27 @@ The dashboard is designed to support data-driven decision-making by highlighting
 
 The report tracks the following KPIs:
 
-Total Sales
-Total Sales with Discount
-Total Discount
-Total Sold Quantity
-Total Marketing Cost
-% Margin
-📊 Report Pages & Insights
+Total Sales,
+Total Sales with Discount,
+Total Discount,
+Total Sold Quantity,
+Total Marketing Cost,
+% Margin,
+📊 Report Pages & Insights,
 1. 📈 Sales Overview
-Monthly sales trend with MoM Growth %
+Monthly sales trend with MoM Growth %,
 Yearly comparison with YoY Growth
 Cost structure:
-COGS %
-Marketing Cost %
-Discount %
+COGS %,
+Marketing Cost %,
+Discount %,
 Margin %
 
 👉 Purpose:
 Understand performance trends and profitability drivers over time
 
 2. 🏷️ Brand Performance
-Sales and margin by Brand
+Sales and margin by Brand,
 Cost structure comparison across brands and years
 
 👉 Purpose:
