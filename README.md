@@ -14,7 +14,8 @@ Total Sales with Discount,
 Total Discount,
 Total Sold Quantity,
 Total Marketing Cost,
-% Margin,
+% Margin
+
 📊 Report Pages & Insights,
 1. 📈 Sales Overview
 Monthly sales trend with MoM Growth %,
