@@ -1,4 +1,5 @@
 📊 Sales & Performance Dashboard
+
 📌 Overview
 
 This Power BI report provides a comprehensive analysis of sales performance, profitability, and cost structure across different dimensions such as Brand, Company, Sales Channel (TT/MT), Region, and Time.
