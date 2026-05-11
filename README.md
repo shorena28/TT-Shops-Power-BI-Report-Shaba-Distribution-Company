@@ -16,7 +16,7 @@ Total Sold Quantity,
 Total Marketing Cost,
 % Margin
 
-📊 Report Pages & Insights,
+📊 Report Pages & Insights
 1. 📈 Sales Overview
 Monthly sales trend with MoM Growth %,
 Yearly comparison with YoY Growth
